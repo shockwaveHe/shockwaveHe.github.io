@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.ri.cmu.edu/'>Robotics Institute, CMU</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: yaohe.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Robotics Institute, SQH, CMU</p>
+    <p>1723 Murey Ave</p>
+    <p>Pittsburgh, PA 15213</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi, I am Yao He! Currently, I serves as a research associate at [AirLab](https://theairlab.org/), [CMU Robotics Institute](https://www.ri.cmu.edu/), advised by Prof. [Sebastian Scherer](https://theairlab.org/team/sebastian/).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have an innate passion for understanding how human perception & navigation works and how we can build real-world deployable autonomous systems with a positive societal impact. In pursuit of this passion, I aim to build efficient and versatile perception systems which leverage the inherent temporality and structure of the real world.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Bachelor degree in Electronic Information Engineering from [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). During my undergradute, I work on unmanned surface vehicles (USVs) in Prof. [Alex Qian](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan)'s Lab. I was also a [2021 CMU Robotics Institute Summer Scholar](https://riss.ri.cmu.edu/meet-the-2021-ri-summer-scholars/).
