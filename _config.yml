@@ -168,13 +168,16 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  service:
+    output: true
+    permalink: /service/:path/
 
-news:
+announcements:
   enabled: true
   scrollable: true
-  limit: 3
+  limit: 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 3 # leave blank to include all the news in the `_news` folder
+news_limit:  # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -212,6 +215,7 @@ plugins:
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-imagemagick
+  - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
