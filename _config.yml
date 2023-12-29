@@ -171,6 +171,12 @@ collections:
   service:
     output: true
     permalink: /service/:path/
+  robots:
+    output: true
+    permalink: /robots/:path/
+  courseprojects:
+    output: true
+    permalink: /courseprojects/:path/
 
 announcements:
   enabled: true
