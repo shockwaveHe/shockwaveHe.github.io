@@ -35,6 +35,6 @@ horizontal: false
 <h2 class="category">Reviewer</h2>
 </div>
 
-**Journal:** RA-L 2023, IJRR
+**Journal:** RA-L 2023, 2024; IJRR
 
-**Conference:** CVPR 2023, ICRA 2023, IROS 2023
+**Conference:** CVPR 2023; ICRA 2023; IROS 2023, 2024
