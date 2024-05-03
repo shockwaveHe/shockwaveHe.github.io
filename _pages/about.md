@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi, I am Yao He, a new incoming Master's student in EE at Stanford! I am actively thinking about the next generation of robotics. My goal is to harness cutting-edge technologies to advance the capabilities of robotic systems, thereby driving innovations that can have transformative impacts across various sectors. 
 
-Previously, I serves as a research associate at [AirLab](https://theairlab.org/), [CMU Robotics Institute](https://www.ri.cmu.edu/), advised by Prof. [Sebastian Scherer](https://theairlab.org/team/sebastian/). During my time at CMU, I was focusing on building effecient and versatile mobile robot systems that can robustly perceive and safely navigate in unstructured environments.
+Previously, I serves as a research associate and one of the main engineers at [AirLab](https://theairlab.org/), [CMU Robotics Institute](https://www.ri.cmu.edu/), advised by Prof. [Sebastian Scherer](https://theairlab.org/team/sebastian/). During my time at CMU, I was focusing on building effecient and versatile mobile robot systems that can robustly perceive and safely navigate in unstructured environments.
 
 <!-- I have an innate passion for understanding how human perception & navigation works and how we can build real-world deployable autonomous systems with a positive societal impact. In pursuit of this passion, I aim to build efficient and versatile perception systems which leverage the inherent temporality and structure of the real world. -->
 
