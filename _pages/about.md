@@ -11,6 +11,9 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+# Show all publications instead of just selected ones
+all_publications: true
 ---
 
 I am currently a second-year Master's student at Stanford, working on computer vision and robotics. I work with Prof. [Ehsan Adeli](https://stanford.edu/~eadeli/) and Prof. [Youngjoong Kwon](https://youngjoongunc.github.io/) as part of the [Stanford Translation AI Lab (STAI)](https://stai.stanford.edu/) and [Stanford Vision and Learning (SVL)](https://svl.stanford.edu/). I am also a member of the [Toddlerbot team](https://toddlerbot.github.io/), advised by Prof. [Shuran Song](https://shurans.github.io/) and Prof. [Karen Liu](https://tml.stanford.edu/).
