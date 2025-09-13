@@ -152,6 +152,8 @@ collections:
     output: true
   projects:
     output: true
+  courseprojects:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -274,8 +276,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [He]
+  first_name: [Yao]
 
   style: apa
   locale: en
