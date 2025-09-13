@@ -58,7 +58,7 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
-      <h2>
+      <h2 style="color: #4B0082; font-weight: bold;">
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">
           {% if page.all_publications %}Research{% else %}Research{% endif %}
         </a>
@@ -70,6 +70,31 @@ layout: default
       {% else %}
         {% include selected_papers.liquid %}
       {% endif %}
+    {% endif %}
+
+    <!-- Teaching and Professional Service -->
+    {% if page.teaching_service %}
+      <h2 style="color: #4B0082; font-weight: bold;">Teaching and Professional Service</h2>
+      <div class="teaching-service-content">
+        <p><strong>Teaching Assistant:</strong></p>
+        <ul>
+          <li>EE/CS 227 Robot Perception (Fall 2025) - <strong>Stanford</strong></li>
+          <li>MAT2002 Ordinary Differential Equations (Spring 2022) - <strong>CUHK-Shenzhen</strong></li>
+          <li>CSC3002 Introduction to Computer Science: Programming Paradigms (Spring 2021) - <strong>CUHK-Shenzhen</strong></li>
+          <li>MAT1002 Calculus II (Spring 2020) - <strong>CUHK-Shenzhen</strong></li>
+          <li>PHY1001 Mechanics (Fall 2019) - <strong>CUHK-Shenzhen</strong></li>
+        </ul>
+        
+        <p><strong>CMU MRSD Mentor:</strong> Resilient Subcanopy UAS Navigation Through Smoke for Wildfire Application (<a href="https://mrsdprojects.ri.cmu.edu/2024teamb/" target="_blank">EmberEye</a>)</p>
+        
+        <p><strong>Co-organized Events:</strong></p>
+        <ul>
+          <li><a href="https://theairlab.org/tartanplanningseries/" target="_blank">Tartan Planning Series</a> - Spring 2023 interactive series of talks, tutorials, and learning on Robot Planning</li>
+          <li><a href="https://superodometry.com/datasets#contact-us" target="_blank">ICCV 2023 SLAM Challenge</a> - Multi-Robot, Multi-Degraded SLAM Challenge with TartanAir and SubT-MRS datasets</li>
+        </ul>
+        
+        <p><strong>Reviewer:</strong> IJRR, RA-L, IROS, ICRA, CVPR</p>
+      </div>
     {% endif %}
 
     <!-- Social -->
