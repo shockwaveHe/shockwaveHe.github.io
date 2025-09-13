@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shockwaveHe.github.io/al-folio/sitemap.xml
+Sitemap: https://shockwaveHe.github.io/sitemap.xml
