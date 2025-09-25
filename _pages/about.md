@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Yao He
 permalink: /
 subtitle:
 
@@ -17,87 +17,8 @@ all_publications: true
 
 # Teaching and Professional Service
 teaching_service: true
-_styles: |
-  .social .contact-icons {
-    font-size: 1.5rem !important;
-    display: inline-block !important;
-  }
-  .social .contact-icons a {
-    display: inline-block !important;
-    margin-right: 0.2rem !important;
-    margin-bottom: 0 !important;
-  }
-  .social .contact-icons i {
-    font-size: 1.5rem !important;
-  }
-  body {
-    font-size: 1.3rem !important;
-  }
-  p {
-    font-size: 1.3rem !important;
-  }
-  li {
-    font-size: 1.3rem !important;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    font-size: 1.5rem !important;
-  }
-  .page__content {
-    font-size: 1.3rem !important;
-  }
-  .page__content p {
-    font-size: 1.3rem !important;
-  }
-  .page__content li {
-    font-size: 1.3rem !important;
-  }
-  .entry-content {
-    font-size: 1.3rem !important;
-  }
-  .entry-content p {
-    font-size: 1.3rem !important;
-  }
-  .entry-content li {
-    font-size: 1.3rem !important;
-  }
-  .about-page {
-    font-size: 1.3rem !important;
-  }
-  .about-page p {
-    font-size: 1.3rem !important;
-  }
-  .about-page li {
-    font-size: 1.3rem !important;
-  }
-  body {
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-  .page {
-    max-width: 95% !important;
-    margin: 0 auto !important;
-    padding: 0 2rem !important;
-  }
-  .wrapper {
-    max-width: 95% !important;
-    margin: 0 auto !important;
-  }
-  .main {
-    max-width: 95% !important;
-    margin: 0 auto !important;
-  }
-  .page__inner-wrap {
-    max-width: 95% !important;
-    margin: 0 auto !important;
-  }
-  .page__content {
-    max-width: 95% !important;
-    margin: 0 auto !important;
-  }
-  .archive {
-    max-width: 95% !important;
-    margin: 0 auto !important;
-  }
+show_projects_on_about: true
+custom_css: /assets/css/about.css
 ---
 
 I am currently a second-year Master's student at Stanford, working on computer vision and robotics. I work with Prof. [Ehsan Adeli](https://stanford.edu/~eadeli/) and Prof. [Youngjoong Kwon](https://youngjoongunc.github.io/) as part of the [Stanford Translation AI Lab (STAI)](https://stai.stanford.edu/) and [Stanford Vision and Learning (SVL)](https://svl.stanford.edu/). I am also a member of the [Toddlerbot team](https://toddlerbot.github.io/), advised by Prof. [Shuran Song](https://shurans.github.io/) and Prof. [Karen Liu](https://tml.stanford.edu/).

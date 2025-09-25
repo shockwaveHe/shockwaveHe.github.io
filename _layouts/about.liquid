@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+{% if page._styles %}
+  <!-- Page/Post style -->
+  <style type="text/css">
+    {{ page._styles }}
+  </style>
+{% endif %}
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
@@ -105,6 +111,27 @@ layout: default
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
+    {% endif %}
+
+    {% if page.show_projects_on_about %}
+      <div class="projects">
+        <h2 style="color: #4B0082; font-weight: bold;">Projects</h2>
+        <h2 class="category">Research Projects</h2>
+        {% assign sorted_projects = site.projects | sort: "importance" %}
+        <div class="row row-cols-1 row-cols-md-4">
+          {% for project in sorted_projects %}
+            {% include projects.liquid %}
+          {% endfor %}
+        </div>
+
+        <h2 class="category">Course Projects</h2>
+        {% assign sorted_course_projects = site.courseprojects | sort: "importance" %}
+        <div class="row row-cols-1 row-cols-md-4">
+          {% for project in sorted_course_projects %}
+            {% include projects.liquid %}
+          {% endfor %}
+        </div>
+      </div>
     {% endif %}
   </article>
 </div>
