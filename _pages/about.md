@@ -27,9 +27,8 @@ Previously, I served as a research associate and one of the main engineers at [A
 
 <div style="background-color: #f8f9fa; border-left: 4px solid #4B0082; padding: 1rem 1.5rem; margin: 2rem 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <p style="margin: 0; font-weight: 600; color: #4B0082; font-size: 1.1em;">
-    🎓 <strong>I am actively seeking PhD positions starting Fall 2026!</strong>
+    🎓 <strong>I will join Stanford as a PhD student in Computer Science this Fall, stay tuned!</strong>
   </p>
   <p style="margin: 0.5rem 0 0 0; color: #666; font-size: 0.95em;">
-    I am passionate about advancing research in computer vision, robotics, and AI. If you are interested in collaborating or have opportunities that align with my research interests, please feel free to reach out!
   </p>
 </div>
