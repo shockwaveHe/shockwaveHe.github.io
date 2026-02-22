@@ -25,10 +25,10 @@ I am currently a second-year Master's student at Stanford, working on computer v
 
 Previously, I served as a research associate and one of the main engineers at [AirLab](https://theairlab.org/), [CMU Robotics Institute](https://www.ri.cmu.edu/), advised by Prof. [Sebastian Scherer](https://theairlab.org/team/sebastian/). During my time at CMU, I was focusing on building effecient and versatile mobile robot systems that can robustly perceive and safely navigate in unstructured environments. I was also a [2021 CMU Robotics Institute Summer Scholar](https://riss.ri.cmu.edu/meet-the-2021-ri-summer-scholars/).
 
-<div style="background-color: #f8f9fa; border-left: 4px solid #4B0082; padding: 1rem 1.5rem; margin: 2rem 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<!-- <div style="background-color: #f8f9fa; border-left: 4px solid #4B0082; padding: 1rem 1.5rem; margin: 2rem 0; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <p style="margin: 0; font-weight: 600; color: #4B0082; font-size: 1.1em;">
-    🎓 <strong>I will join Stanford as a PhD student in Computer Science this Fall, stay tuned!</strong>
+    🎓 <strong></strong>
   </p>
   <p style="margin: 0.5rem 0 0 0; color: #666; font-size: 0.95em;">
   </p>
-</div>
+</div> -->
